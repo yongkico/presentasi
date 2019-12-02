@@ -1,0 +1,12 @@
+Date : Sunday, December 1, 2019
+
+Kegiatan :
+1. Melakukan penginstalan Bespoke dan NodeJS.
+2. Melakukan commit.
+3. Membuat backlog.
+4. Membuat akun GitHub.
+
+Kendala :
+1. Dalam menjalankan gulp.
+2. Dalam menjalankan grunt.
+=======================================
