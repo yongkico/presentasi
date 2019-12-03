@@ -473,6 +473,7 @@ video {
   overflow: hidden;
   opacity: 0;
   background-color: rgba(0,0,0,0);
+  color: #fff;
   position: absolute;
   top: 50%;
   left: 50%;
