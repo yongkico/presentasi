@@ -14,7 +14,20 @@ Date : Monday, December 2, 2019
 
 Kegiatan :
 1. Melakukan commit.
-3. Membuat backlog.
+2. Membuat backlog.
+
+Kendala :
+-
+=======================================
+Date : Tuesday, December 3, 2019
+
+Kegiatan :
+1. Melakukan commit.
+2. Membuat backlog.
+3. Membuat desain latar belakang.
+4. Push directory 'dist'.
+5. Mengubah font
+6. Mengubah isi slide 2
 
 Kendala :
 -
