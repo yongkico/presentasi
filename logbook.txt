@@ -10,3 +10,12 @@ Kendala :
 1. Dalam menjalankan gulp.
 2. Dalam menjalankan grunt.
 =======================================
+Date : Monday, December 2, 2019
+
+Kegiatan :
+1. Melakukan commit.
+3. Membuat backlog.
+
+Kendala :
+-
+=======================================
