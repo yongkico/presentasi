@@ -32,3 +32,15 @@ Kegiatan :
 Kendala :
 -
 =======================================
+Date : Tuesday, December 4, 2019
+
+Kegiatan :
+1. Melakukan commit.
+2. Membuat backlog.
+3. Mengganti Scrum Master
+4. Mengubah Icon Tab
+5. Membuat Slide Tampilan Our Team
+6. Membuat Slide Deskripsi Perusahaan IKEA
+
+Kendala :
+-
