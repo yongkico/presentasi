@@ -44,3 +44,15 @@ Kegiatan :
 
 Kendala :
 -
+=======================================
+Date : Thursday, December 5, 2019
+
+Kegiatan :
+1. Melakukan commit.
+2. Membuat backlog.
+4. Menyelesaikan Icon Tab
+5. Menyelesaikan Desain Logo
+6. Mengerjakan sebagian Slide Our Team 
+7. Membuat Slide "4 Cara Untuk Mengontrol IKEA Smarthome"
+8. Membuat Slide "Fitur IKEA Smarthome"
+9. Mengubah Slide Deskripsi Perusahaan
