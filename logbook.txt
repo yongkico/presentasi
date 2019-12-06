@@ -56,3 +56,17 @@ Kegiatan :
 7. Membuat Slide "4 Cara Untuk Mengontrol IKEA Smarthome"
 8. Membuat Slide "Fitur IKEA Smarthome"
 9. Mengubah Slide Deskripsi Perusahaan
+
+=======================================
+Date : Friday, December 6, 2019
+
+Kegiatan :
+1. Melakukan commit.
+2. Membuat backlog.
+3. Menyelesaikan Slide "4 Cara Untuk Mengontrol IKEA Smarthome"
+4. Membuat Slide "Visi dari IKEA Smarthome"
+5. Mengubah Due Date dari beberapa backlog di trello
+6. Mengubah slide 7 "Teknologi"
+
+Kendala :
+-
