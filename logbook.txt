@@ -1,4 +1,5 @@
 Date : Sunday, December 1, 2019
+Scrum Master : Yongki Hutagalung
 
 Kegiatan :
 1. Melakukan penginstalan Bespoke dan NodeJS.
@@ -11,6 +12,7 @@ Kendala :
 2. Dalam menjalankan grunt.
 =======================================
 Date : Monday, December 2, 2019
+Scrum Master : Yongki Hutagalung
 
 Kegiatan :
 1. Melakukan commit.
@@ -20,6 +22,7 @@ Kendala :
 -
 =======================================
 Date : Tuesday, December 3, 2019
+Scrum Master : Yongki Hutagalung
 
 Kegiatan :
 1. Melakukan commit.
@@ -33,6 +36,7 @@ Kendala :
 -
 =======================================
 Date : Tuesday, December 4, 2019
+Scrum Master : Willy Silalahi
 
 Kegiatan :
 1. Melakukan commit.
@@ -46,6 +50,7 @@ Kendala :
 -
 =======================================
 Date : Thursday, December 5, 2019
+Scrum Master : Willy Silalahi
 
 Kegiatan :
 1. Melakukan commit.
@@ -59,6 +64,7 @@ Kegiatan :
 
 =======================================
 Date : Friday, December 6, 2019
+Scrum Master : Willy Silalahi
 
 Kegiatan :
 1. Melakukan commit.
@@ -67,6 +73,21 @@ Kegiatan :
 4. Membuat Slide "Visi dari IKEA Smarthome"
 5. Mengubah Due Date dari beberapa backlog di trello
 6. Mengubah slide 7 "Teknologi"
+
+Kendala :
+-
+=======================================
+Date : Monday, December 9, 2019
+Scrum Master : Alfon Ritonga
+
+Kegiatan :
+1. Melakukan commit.
+2. Membuat backlog.
+3. Menyelesaikan Slide "Kelebihan dan Kekurangan Lampu Pintar IKEA"
+4. Membuat Slide "Fitur Lampu Pintar IKEA"
+5. Update CSS Our Team
+6. Mengubah slide Our Team
+7. Menyelesaikan modifikasi Slide "4 Cara Mengendalikan IKEA Smarthome"
 
 Kendala :
 -
