@@ -91,3 +91,18 @@ Kegiatan :
 
 Kendala :
 -
+=======================================
+Date : Tuesday, December 10, 2019
+Scrum Master : Alfon Ritonga
+
+Kegiatan :
+1. Melakukan commit.
+2. Membuat backlog.
+3. Memperbaharui index.html
+4. Menambahkan slide tentang rincian gambar lampu IKEA
+5. Memperbaharui Desain Profile Our Team
+6. Modifikasi List Style pada Kelebihan
+7. Modifikasi List Style pada Kekurangan
+
+Kendala :
+-
