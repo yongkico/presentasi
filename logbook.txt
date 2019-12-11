@@ -106,3 +106,19 @@ Kegiatan :
 
 Kendala :
 -
+=======================================
+Date : Wednesday, December 11, 2019
+Scrum Master : Alfon Ritonga
+
+Kegiatan :
+1. Melakukan commit.
+2. Membuat backlog.
+3. Memperbaharui index.html
+4. Menambahkan slide penutupan
+5. Menyelesaikan slide gampar Lampu Pintar IKEA
+6. Menambahkan Slide Review berbentuk Video Lampu Pintae IKEA
+7. Menambahkan Slide Penutup
+
+
+Kendala :
+-
