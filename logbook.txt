@@ -133,7 +133,7 @@ Kegiatan :
 4. Menyelesaikan Slide Review Lampur Pintar IKEA berbentuk video
 5. Membuat softcopy backlog
 6. Menyelesaikan burndown chart
-
+7. Menambah Gambar Animasi di Slide "Any Question"
 
 Kendala :
 -
