@@ -116,8 +116,23 @@ Kegiatan :
 3. Memperbaharui index.html
 4. Menambahkan slide penutupan
 5. Menyelesaikan slide gampar Lampu Pintar IKEA
-6. Menambahkan Slide Review berbentuk Video Lampu Pintae IKEA
+6. Menambahkan Slide Review berbentuk Video Lampu Pintar IKEA
 7. Menambahkan Slide Penutup
+
+
+Kendala :
+-
+=======================================
+Date : Thursday, December 12, 2019
+Scrum Master : Yongki Hutagalung
+
+Kegiatan :
+1. Melakukan commit.
+2. Memperbaharui index.html
+3. Memperbaharui CSS
+4. Menyelesaikan Slide Review Lampur Pintar IKEA berbentuk video
+5. Membuat softcopy backlog
+6. Menyelesaikan burndown chart
 
 
 Kendala :
